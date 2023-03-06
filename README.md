@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Nikam</h1>
 <h3 align="center">A passionate iOS App developer from India. Currently in my Third Year of B.Tech from Symbiosis Institute of Technology.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-nikam&label=Profile%20views&color=0e75b6&style=flat" alt="parth-nikam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth-nikam" alt="parth-nikam" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-nikam&label=Profile%20views&color=0e75b6&style=flat" alt="parth-nikam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/parthnikam2" target="blank"><img src="https://img.shields.io/twitter/follow/parthnikam2?logo=twitter&style=for-the-badge" alt="parthnikam2" /></a> </p>
 
