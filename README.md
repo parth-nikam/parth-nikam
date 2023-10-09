@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-nikam&label=Profile%20views&color=0e75b6&style=flat" alt="parth-nikam" /> </p>
 
-- 🔭 I’m currently working on [Partify and VishayKa](https://github.com/parth-nikam?tab=repositories)
-
-- 🌱 I’m currently learning **iOS Development and Swift**
-
 - 👨‍💻 All of my projects are available at [https://github.com/parth-nikam?tab=repositories](https://github.com/parth-nikam?tab=repositories)
 
 - 📫 How to reach me **parthsnikam12co@gmail.com**
