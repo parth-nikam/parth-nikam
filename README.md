@@ -1,84 +1,60 @@
 <div align="center">
 
-# Parth Nikam
+# Hey, I'm Parth 👋
 
-**Technical Program Management · Cloud Infrastructure · Release Engineering**
+**Engineer by background. Builder by instinct. Problem-solver by profession.**
 
-Project Manager I at **TraceLink** | Pune, India
+I work on software delivery and infrastructure, and I like making complicated systems a little simpler.
 
-[LinkedIn](https://www.linkedin.com/in/parth-nikam/) · [Email](mailto:parthsnikam12co@gmail.com) · [GitHub Projects](https://github.com/parth-nikam?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-nikam/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:parthsnikam12co@gmail.com)
+[![GitHub](https://img.shields.io/badge/Explore_my_repos-181717?style=flat&logo=github&logoColor=white)](https://github.com/parth-nikam?tab=repositories)
 
 </div>
 
 ---
 
-### Profile
+### A little about me
 
-I work at the intersection of **engineering, infrastructure, and program delivery**. My experience ranges from hands-on site reliability and cloud engineering to coordinating cross-functional software releases.
+- 🏗️ Currently working at **TraceLink**, where engineering, releases, and coordination meet.
+- ☁️ Previously worked on cloud infrastructure and reliability at **Star Health** and **PhonePe**.
+- 🔧 Interested in **cloud, automation, developer tools, and building things that actually get used**.
+- 🤖 Got my start building robots and competing in **ABU Robocon**.
+- 📍 Based in **Pune, India**.
 
-At TraceLink, I focus on release execution, technical dependencies, deployment readiness, and operational improvements. I'm particularly interested in **technical program management**, where engineering context and structured execution come together to deliver reliable products at scale.
+### Things I work with
 
-### Professional experience
+<div align="center">
 
-**TraceLink — Project Manager I**  
-*August 2025 – Present*
+<img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,jenkins,linux,git,github,python,postgres&perline=10" alt="Technology stack: AWS, Azure, Kubernetes, Docker, Jenkins, Linux, Git, GitHub, Python, PostgreSQL" />
 
-- Coordinated **130+ software releases**, working across engineering and operational stakeholders.
-- Drive deployment planning, risk tracking, cross-team dependencies, smoke testing, and user acceptance testing.
-- Automated repetitive release-management tasks to improve execution efficiency.
+<sub>Cloud · Automation · CI/CD · Infrastructure · Software Delivery</sub>
 
-**Star Health — Cloud & DevOps Engineer**  
-*August 2024 – August 2025*
+</div>
 
-- Worked with **AWS, Amazon EKS, Oracle Cloud, Azure, Kubernetes, Jenkins, and Helm**.
-- Supported infrastructure operations, cloud migrations, CI/CD pipelines, and PostgreSQL upgrades.
-- Automated database-host migration work across **76 services**.
+### Some things I've built
 
-**PhonePe — Site Reliability Engineering Intern**  
-*February 2024 – May 2024*
-
-- Built operational dashboards with the **ELK stack**.
-- Worked on infrastructure automation using **Ansible, Jenkins, and virtual machines**.
-
-### Technical capabilities
-
-| Area | Technologies and practices |
+| | |
 | --- | --- |
-| **Cloud & platforms** | AWS, Amazon EKS, Azure, Oracle Cloud, Kubernetes, Docker, Linux |
-| **CI/CD & observability** | Jenkins, Helm, GitHub, SonarQube, ELK Stack |
-| **Infrastructure & data** | PostgreSQL, Ansible, deployment automation |
-| **Program delivery** | Release management, technical coordination, risk and dependency management, UAT |
+| 🧠 **[Crypto Prediction with LSTM](https://github.com/parth-nikam/Crypto-Prediction-Model-Using-LSTM)** | Exploring machine learning and time-series forecasting |
+| ⚡ **[Digital Design with Verilog](https://github.com/parth-nikam/Digital-Design-with-Verilog)** | Digital logic, hardware, and the engineering fundamentals |
+| 🎵 **[Partify](https://github.com/parth-nikam/Partify)** | An application project from my builder side |
+| 📱 **[Flash Chat iOS](https://github.com/parth-nikam/Flash-Chat-iOS13)** | Experimenting with mobile app development |
 
-<p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+### A little GitHub activity
 
-### Selected projects
+<div align="center">
 
-| Repository | Area |
-| --- | --- |
-| [Crypto Prediction Model Using LSTM](https://github.com/parth-nikam/Crypto-Prediction-Model-Using-LSTM) | Machine learning and time-series forecasting |
-| [Digital Design with Verilog](https://github.com/parth-nikam/Digital-Design-with-Verilog) | Digital systems and hardware design |
-| [Partify](https://github.com/parth-nikam/Partify) | Application development |
-| [Flash Chat iOS](https://github.com/parth-nikam/Flash-Chat-iOS13) | Mobile application development |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-nikam&layout=compact&hide_border=true&theme=transparent" alt="Languages used across public GitHub repositories" />
 
-### Background
-
-**B.Tech, Electronics & Telecommunication Engineering** — Symbiosis Institute of Technology, Pune (2024)
-
-Previously involved in robotics competitions, including **ABU Robocon**, and student event leadership.
+</div>
 
 ---
 
 <div align="center">
 
-**Interested in engineering productivity, scalable platforms, and technical program delivery.**
+**I like building, learning, and figuring things out.**
 
-[Connect on LinkedIn](https://www.linkedin.com/in/parth-nikam/) · [Get in touch](mailto:parthsnikam12co@gmail.com)
+If you're working on something interesting, [let's connect](https://www.linkedin.com/in/parth-nikam/).
 
 </div>
