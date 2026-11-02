@@ -2,7 +2,7 @@
 
 # Hey, I'm Parth 👋
 
-**Engineer by background. Builder by instinct. Problem-solver by profession.**
+**Engineer by background. Builder by instinct. Problem-solver by profession :)**
 
 I work on software delivery and infrastructure, and I like making complicated systems a little simpler.
 
