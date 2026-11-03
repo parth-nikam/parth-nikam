@@ -43,6 +43,50 @@ I work on software delivery and infrastructure. Outside work, I build tools for 
 </tr>
 </table>
 
+## Engineering deep dives
+
+### MoveScan OS · Direct-to-S3 video pipeline
+
+```mermaid
+flowchart LR
+    A["React Native + FFmpeg"] -->|"Request scoped URLs"| B["Next.js upload API"]
+    A -->|"Upload 16 MiB parts"| C["Amazon S3"]
+    A -->|"Submit part numbers and ETags"| B
+    B -->|"Validate and complete"| C
+    C --> D["Mock vision adapter"]
+    D --> E["Operations dashboard"]
+```
+
+- **Control plane and data path.** The API starts the multipart upload and signs individual parts. The client sends video directly to S3 and returns part numbers and ETags for server-side validation.
+- **Recovery.** The upload flow supports part-level progress, retry, cancellation, and expired URL recovery. The completion endpoint validates the expected parts and handles repeat submissions idempotently.
+- **Demo scope.** The hosted demo uses mock storage and a mock vision adapter. The repository implements the S3 upload path behind the same API contract.
+
+[Source and architecture notes](https://github.com/parth-nikam/movescan-ops#architecture)
+
+### Relay AI · Shared runtime for website copilots
+
+- **Runtime design.** The simulated console shows how each copilot could have its own instructions, knowledge collection, and tool permissions while sharing a runtime.
+- **Write controls and debugging.** The demo shows human approval before write actions and exposes citations, conversation traces, latency, token usage, and tool calls for inspection.
+- **Evaluation.** Regression examples cover response quality and safety behavior. Model responses, tool calls, and data are simulated.
+
+[Source and proposed production architecture](https://github.com/parth-nikam/relay-ai-copilot-console#production-architecture)
+
+### Enrollment Concierge · Consent and handoff
+
+- **Conversation routing.** Deterministic flows cover qualified leads, financial-aid requests, and policy-sensitive questions, with a human handoff path.
+- **Integration contract.** The flow gates CRM routing on consent and demonstrates idempotent webhook payloads. The orchestration contract separates conversation logic from the channel adapter.
+- **Demo scope.** Mock connectors let you inspect routing and handoff behavior without real learner data.
+
+[Source and demo overview](https://github.com/parth-nikam/enrollment-concierge-agent)
+
+### RoadsWeWalk · Native SwiftUI product prototype
+
+- **Product flow.** The prototype follows a mood check-in through a guided reflection, a private or Circle sharing choice, and a reflection timeline.
+- **State modeling.** The demo includes invitations, connection requests, and free and premium entitlement states. It runs locally with in-memory sample data and mocked authentication and billing.
+- **Run locally.** Open `Package.swift` in Xcode 16 or later and run the `RoadsWeWalkDemo` scheme on an iPhone simulator.
+
+[Source and local setup](https://github.com/parth-nikam/roads-we-walk-swiftui#run-it)
+
 ## Tools I work with
 
 <p>
